@@ -1,0 +1,14 @@
+今天又是元气满满的一天 ૮ ・ﻌ・ა 
+下面为您播报{{ city.DATA }}
+今天的天气 o(〃'▽'〃)o 
+今天是：{{ date.DATA }} {{week_day.DATA}} 
+今日天气：{{ weather.DATA }} 
+当前温度：{{ temperature.DATA }}℃ 
+空气湿度：{{ humidity.DATA }} 
+今日气温：{{ lowest.DATA }}℃~{{ highest.DATA }}℃ 
+今日空气质量：{{ air_quality.DATA }} 
+今日风向与风力：{{ wind.DATA }} 
+今日空气污染指数：{{ air_data.DATA }} 
+你已经来到这个世界上 {{ love_days.DATA }} 天 
+距离小公主的生日还有{{ birthday_left.DATA }} 天  
+{{words.DATA}}
